@@ -17,6 +17,5 @@
     ```
 
 ## Screenshots
-![](https://github.com/juneview-songdo/chatgpt_view/assets/21379657/750efcfa-0346-4a74-818c-649d6ff93836)
-![](https://github.com/juneview-songdo/chatgpt_view/assets/21379657/100f337c-8bf7-4cff-9f7a-064723f9a2e2)
+![](https://github.com/juneview-songdo/chatgpt_view/assets/21379657/7792bcfb-df33-432f-aeb9-4671db83fefc)
 
