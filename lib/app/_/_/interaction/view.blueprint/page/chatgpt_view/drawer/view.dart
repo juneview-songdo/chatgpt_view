@@ -45,7 +45,7 @@ class DrawerViewState extends State<DrawerView> with StateMother {
                                 title: Text(
                                   overflow: TextOverflow.ellipsis,
                                   maxLines: 1,
-                                  'Drawer Chat',
+                                  'New Chat',
                                 ),
                               ),
                             ),

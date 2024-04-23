@@ -30,7 +30,7 @@ class AppbarViewState extends State<AppbarView> with StateMother {
       title: Text(
           overflow: TextOverflow.ellipsis,
           maxLines: 1,
-          'Appbar Chat',
+          'New Chat',
           style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.w300,
