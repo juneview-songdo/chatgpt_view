@@ -3,7 +3,7 @@ description: "ChatGPT View by June"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/chatgpt_view
 
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -28,6 +28,7 @@ dependencies:
   styled_widget: ^0.4.1
 
 dev_dependencies:
+  basic_keyboard: ^1.0.0+1
   bot_toast_module: ^0.1.2
   chatgpt_appbar_view: ^1.0.4
   chatgpt_drawer_view: ^1.0.2
