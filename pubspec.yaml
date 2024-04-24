@@ -3,7 +3,7 @@ description: "ChatGPT View by June"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/chatgpt_view
 
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -42,7 +42,7 @@ dev_dependencies:
   june_view: ^1.6.2 #@add
   june_view_more: ^1.6.2 #@add
   screenutil_module: ^1.0.1
-  theme_mode_changer: ^1.0.0
+  theme_mode_changer: ^1.0.0 #@add
 
 flutter:
   assets:
